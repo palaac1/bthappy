@@ -14,7 +14,7 @@ curl http://f.cccyun.cc/bt/update6.sh|bash
 ```
 
 
-<!--宝塔7.7原版一键开心脚本--><br>
+!--宝塔7.7原版一键开心脚本--<br>
 ```
 curl -sSO https://raw.githubusercontent.com/ztkink/bthappy/main/one_key_happy.sh && bash one_key_happy.sh
 ```
